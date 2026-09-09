@@ -1,16 +1,25 @@
-## Hi there 👋
+# Mohamed Boubaker 👋
 
-<!--
-**mohamed-boubaker/mohamed-boubaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en **Licence 3 Informatique**, je recherche actuellement un **stage de fin d'études** (L3) dans le domaine des **Réseaux, Systèmes & Sécurité**.
 
-Here are some ideas to get you started:
+🎯 **Objectif :** Poursuivre ensuite en **Master SRS (Systèmes, Réseaux et Sécurité)** en **contrat d'alternance**. Une opportunité de stage pré-embauche / tremplin vers l'alternance est donc idéale !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 À propos de moi
+- 🎓 **Formation actuelle :** Licence 3 Informatique
+- 🎯 **Projet d'études :** Futur Master Réseaux & Sécurité (SRS) en alternance
+- 💡 **Centres d'intérêt :** Architecture réseau, administration Linux/Windows, cybersécurité, automatisation
+
+---
+
+### 🛠️ Compétences & Notions abordées (L1 à L3)
+- **Réseaux :** Modèle OSI, TCP/IP, Adressage IPv4/IPv6, VLAN, Routage (statique & dynamique), Wireshark
+- **Systèmes :** Linux (Debian, Ubuntu), Windows Server, Shell / Bash.
+- **Programmation & Scripting :** Python, C++ ,C , scripts d'automatisation système/réseau.
+
+---
+
+### 📬 Contact
+- **Email :** [bouba111er@gmail.com]
+- **Localisation :** France lyon .
