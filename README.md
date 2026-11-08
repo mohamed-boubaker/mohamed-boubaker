@@ -1,25 +1,32 @@
-# Mohamed Boubaker 👋
+# Bonjour, moi c'est Mohamed Boubaker 👋
 
-Étudiant en **Licence 3 Informatique**, je recherche actuellement un **stage de fin d'études** (L3) dans le domaine des **Réseaux, Systèmes & Sécurité**.
+🎓 Étudiant en troisième année de Licence Informatique à l'Université Claude Bernard Lyon 1.
 
-🎯 **Objectif :** Poursuivre ensuite en **Master SRS (Systèmes, Réseaux et Sécurité)** en **contrat d'alternance**. Une opportunité de stage pré-embauche / tremplin vers l'alternance est donc idéale !
+💻 Passionné par l'informatique et les nouvelles technologies, je m'intéresse à plusieurs domaines :
+- Développement logiciel
+- Administration des systèmes
+- Réseaux informatiques
+- Cloud Computing
+- Cybersécurité
 
----
+🚀 Je souhaite approfondir mes compétences techniques, travailler sur des projets concrets et découvrir les différentes opportunités du secteur informatique.
 
-### 🚀 À propos de moi
-- 🎓 **Formation actuelle :** Licence 3 Informatique
-- 🎯 **Projet d'études :** Futur Master Réseaux & Sécurité (SRS) en alternance
-- 💡 **Centres d'intérêt :** Architecture réseau, administration Linux/Windows, cybersécurité, automatisation
+## 🛠️ Compétences techniques
 
----
+- **Langages :** Python, C, C++
+- **Systèmes :** Linux, Windows
+- **Réseaux :** TCP/IP, IPv4/IPv6, VLAN, routage
+- **Outils :** Wireshark, Git, GitHub
+- **Bases de données :** à compléter selon tes connaissances
 
-### 🛠️ Compétences & Notions abordées (L1 à L3)
-- **Réseaux :** Modèle OSI, TCP/IP, Adressage IPv4/IPv6, VLAN, Routage (statique & dynamique), Wireshark
-- **Systèmes :** Linux (Debian, Ubuntu), Windows Server, Shell / Bash.
-- **Programmation & Scripting :** Python, C++ ,C , scripts d'automatisation système/réseau.
+## 📂 Mes projets
 
----
+Retrouvez ici mes projets universitaires et personnels, réalisés individuellement ou en équipe.
 
-### 📬 Contact
-- **Email :** [bouba111er@gmail.com]
-- **Localisation :** France lyon .
+## 🎯 Objectif professionnel
+
+À la recherche d'un stage en informatique afin de développer mes compétences, découvrir le monde professionnel et contribuer à des projets techniques.
+
+## 📫 Contact
+- mail : bouba111er@gmail.com
+- GitHub : https://github.com/mohamed-boubaker
