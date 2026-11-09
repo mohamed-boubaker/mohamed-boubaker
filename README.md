@@ -1,32 +1,59 @@
-# Bonjour, moi c'est Mohamed Boubaker 👋
+👋 Bonjour, moi c'est Mohamed !
 
-🎓 Étudiant en troisième année de Licence Informatique à l'Université Claude Bernard Lyon 1.
+🎓 Étudiant en Licence 3 Informatique à l'Université Claude Bernard Lyon 1.
 
-💻 Passionné par l'informatique et les nouvelles technologies, je m'intéresse à plusieurs domaines :
-- Développement logiciel
-- Administration des systèmes
-- Réseaux informatiques
-- Cloud Computing
-- Cybersécurité
+💼 À la recherche d'un stage ou d'une alternance en informatique.
 
-🚀 Je souhaite approfondir mes compétences techniques, travailler sur des projets concrets et découvrir les différentes opportunités du secteur informatique.
+Je m'intéresse à plusieurs domaines : développement logiciel, systèmes, réseaux, cloud et cybersécurité.
 
-## 🛠️ Compétences techniques
+À travers mes projets universitaires, j'ai travaillé sur des jeux, des applications web et des bases de données, individuellement ou en équipe.
 
-- **Langages :** Python, C, C++
-- **Systèmes :** Linux, Windows
-- **Réseaux :** TCP/IP, IPv4/IPv6, VLAN, routage
-- **Outils :** Wireshark, Git, GitHub
-- **Bases de données :** à compléter selon tes connaissances
+🛠️ Compétences techniques
 
-## 📂 Mes projets
+Programmation : Java, Python, C, C++
 
-Retrouvez ici mes projets universitaires et personnels, réalisés individuellement ou en équipe.
+Développement web : HTML, CSS
 
-## 🎯 Objectif professionnel
+Bases de données : SQL, PostgreSQL
 
-À la recherche d'un stage en informatique afin de développer mes compétences, découvrir le monde professionnel et contribuer à des projets techniques.
+Systèmes et réseaux : Linux, Windows, TCP/IP, IPv4/IPv6, VLAN
 
-## 📫 Contact
+Outils : Git, GitHub, Wireshark, SDL2, Grapic
+
+📂 Projets universitaires
+
+🎓 Licence 3
+
+ShapeCraft — Simulation d'usine automatisée (Java)
+
+Projet réalisé en binôme : programmation orientée objet, machines de production, transport et transformation de formes, interface graphique.
+
+🎓 Licence 2
+
+Géométrie Shark — Jeu vidéo 2D (C++ / SDL2)
+
+Projet en équipe : gestion de niveaux, déplacements, obstacles et interactions.
+
+Pingouin Morpion — Application web et base de données
+
+Travail autour d'une application web et de la modélisation de données avec Python, HTML/CSS et PostgreSQL.
+
+BrickMaster — Application interactive
+
+Application reposant sur une grille, une sélection de pièces et un affichage de statistiques.
+
+🎓 Licence 1
+
+Jeu spatial — C++ / Grapic
+
+Mini-jeu 2D avec déplacement d'un vaisseau, obstacles et gestion des collisions.
+
+📁 Voir tous mes dépôts et leurs codes sources
+
+🎯 Objectif professionnel
+
+Développer mes compétences au sein d'une équipe informatique, participer à des projets concrets et explorer différents métiers du numérique.
+
+📫 Contact
 - mail : bouba111er@gmail.com
 - GitHub : https://github.com/mohamed-boubaker
