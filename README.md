@@ -16,7 +16,7 @@ Je m'intéresse à plusieurs domaines : **développement logiciel, systèmes, r�
 
 ## 📂 Projets universitaires
 
-🎮 [Jouer à mes projets](https://geometrie-shark-mohamed.cheekyradish1.chatgpt.site)
+🎮 [Jouer à mes projets](https://mohamed-boubaker.github.io/Portfolio-de-jeux-universitaires/)
 
 ### 🎓 Licence 3
 
