@@ -16,6 +16,8 @@ Je m'intéresse à plusieurs domaines : **développement logiciel, systèmes, r�
 
 ## 📂 Projets universitaires
 
+🎮 [Jouer à mes projets](https://geometrie-shark-mohamed.cheekyradish1.chatgpt.site)
+
 ### 🎓 Licence 3
 
 **ShapeCraft — Simulation d'usine automatisée (Java)**  
