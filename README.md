@@ -48,4 +48,5 @@ Développer mes compétences au sein d'une équipe informatique, participer à d
 ## 📫 Contact
 
 - **GitHub :** [github.com/mohamed-boubaker](https://github.com/mohamed-boubaker)
-- **mail : ** bouba111er@gmail.com
+- **mail :** bouba111er@gmail.com
+- **linkedin :** [linkedin.com/in/mohamed-boubaker](https://www.linkedin.com/in/mohamed-boubaker-b0b36044a/)
